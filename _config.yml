@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Yannick Mauray
-  avatar: https://avatars3.githubusercontent.com/u/2527227?v=3&s=140 #bio-photo.jpg
+  avatar: bio-photo-2.jpg
   bio: "Codeur, geek, joueur, et bentôt papa."
   email: 
   disqus-shortname: jesuisungeekmaisjemesoigne
@@ -41,8 +41,8 @@ owner:
     ad-slot: 
   bing-verify: 
   github: ymauray
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  stackoverflow: http://stackoverflow.com/users/2983884/yannick-mauray
+  linkedin: yannickmauray
   xing: #username
   instagram: #username
   lastfm: #username
