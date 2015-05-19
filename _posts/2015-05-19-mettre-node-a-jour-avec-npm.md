@@ -10,7 +10,7 @@ Pour mettre à jour node.js le plus simplement du monde, il suffit d'utiliser le
 $ sudo npm cache clean -f
 $ sudo npm install -g n
 $ sudo n stable
-{% enhighlight %}
+{% endhighlight %}
 
 Le package "n" est un utilitaire, la dernière commande permet de mettre node (et npm) à jour avec la dernière version stable.
 
