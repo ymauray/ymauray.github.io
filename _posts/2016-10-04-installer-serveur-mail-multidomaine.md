@@ -10,3 +10,5 @@ Voici un tutoriel qui explique pas par pas comment installer un serveur de courr
 https://www.howtoforge.com/virtual-users-and-domains-with-postfix-courier-mysql-and-squirrelmail-debian-wheezy
 
 Note : si au bout d'un moment il n'est plus possible d'envoyer un message, il se peut qu'il faille relancer saslauthd. Il faut vérifier s'il y a des erreurs de type "auth_pam: pam_authenticate failed: Memory buffer error" dans le fichier /var/log/auth.log
+
+Edit : pour configurer l'enregistrement SPF : https://scaron.info/blog/debian-mail-spf-dkim.html
